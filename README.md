@@ -1,2 +1,6 @@
 # hello-world
-school work and stuff
+
+Moi Ihmiset!
+
+Eetu täällä ja pidän musiikista.
+Oon soittanu rumpuja ja ne on paras soitin.
